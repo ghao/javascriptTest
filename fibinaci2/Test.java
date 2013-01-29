@@ -5,9 +5,8 @@ public class Test{
 	if (i>1){
 	System.out.println(i);
 	System.out.println(j+i);
-} else{
-		i=30+i;
-	System.out.println(i);
-}
+} else
+  i=i+222222;
+	System.out.println(i+10000);
 }
 }
