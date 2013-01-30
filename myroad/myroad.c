@@ -1,0 +1,1 @@
+# today and yesterday,the bad emo always make me silly,i just wanna make myself to be myself,god help me.130130.
